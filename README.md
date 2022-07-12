@@ -1,10 +1,10 @@
 # ffmpeg_scale
 Generate ffmpeg scripts for scale change
 
-#BUILD
+# BUILD
 
 mvn clean compile package
 
-#RUN
+# RUN
 
 use Liberica JDK 17 version or higher
